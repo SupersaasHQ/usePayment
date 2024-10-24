@@ -1,8 +1,8 @@
 {
-  "name": "packageName",
+  "name": "use-payment",
   "version": "0.0.0",
   "description": "",
-  "repository": "unjs/packageName",
+  "repository": "SupersaasHQ/usePayment",
   "license": "MIT",
   "sideEffects": false,
   "type": "module",
