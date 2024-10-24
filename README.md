@@ -2,8 +2,8 @@
 
 <!-- automd:badges color=yellow -->
 
-[![npm version](https://img.shields.io/npm/v/packageName?color=yellow)](https://npmjs.com/package/packageName)
-[![npm downloads](https://img.shields.io/npm/dm/packageName?color=yellow)](https://npm.chart.dev/packageName)
+[![npm version](https://img.shields.io/npm/v/use-payment?color=yellow)](https://npmjs.com/package/use-payment)
+[![npm downloads](https://img.shields.io/npm/dm/use-payment?color=yellow)](https://npm.chart.dev/use-payment)
 
 <!-- /automd -->
 
@@ -17,22 +17,22 @@ Install package:
 
 ```sh
 # ✨ Auto-detect
-npx nypm install packageName
+npx nypm install use-payment
 
 # npm
-npm install packageName
+npm install use-payment
 
 # yarn
-yarn add packageName
+yarn add use-payment
 
 # pnpm
-pnpm install packageName
+pnpm install use-payment
 
 # bun
-bun install packageName
+bun install use-payment
 
 # deno
-deno install packageName
+deno install use-payment
 ```
 
 <!-- /automd -->
@@ -79,11 +79,11 @@ import {} from "https://esm.sh/pkg";
 
 <!-- automd:contributors license=MIT -->
 
-Published under the [MIT](https://github.com/unjs/packageName/blob/main/LICENSE) license.
-Made by [community](https://github.com/unjs/packageName/graphs/contributors) 💛
+Published under the [MIT](https://github.com/SupersaasHQ/usePayment/blob/main/LICENSE) license.
+Made by [community](https://github.com/SupersaasHQ/usePayment/graphs/contributors) 💛
 <br><br>
-<a href="https://github.com/unjs/packageName/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=unjs/packageName" />
+<a href="https://github.com/SupersaasHQ/usePayment/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=SupersaasHQ/usePayment" />
 </a>
 
 <!-- /automd -->
