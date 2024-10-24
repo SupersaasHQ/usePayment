@@ -9,6 +9,26 @@
 
 A package to handle payments using Stripe or Lemonsqueezy using a single interface.
 
+Why do we need this?
+
+I run supersaas.dev, a fullstack saas template that allows you to create your own saas. I wanted to make it easy for people to add payments to their saas without having to deal with the nuances of each payment provider.
+
+You get a single interface to handle payments, subscriptions, managing billing etc.
+
+```ts
+usePayment("stripe").createCheckoutLink(options);
+usePayment("lemonsqueezy").createCheckoutLink(options);
+```
+
+## Supported Providers
+
+- Stripe
+- Lemonsqueezy
+- Paddle (WIP)
+- Paypal (WIP)
+- Creem (WIP)
+- Polar.sh (WIP)
+
 ## Usage
 
 Install package:
