@@ -1,13 +1,15 @@
-# packageName
+# SupersaasHQ/usePayment
 
 <!-- automd:badges color=yellow -->
 
 [![npm version](https://img.shields.io/npm/v/use-payment?color=yellow)](https://npmjs.com/package/use-payment)
 [![npm downloads](https://img.shields.io/npm/dm/use-payment?color=yellow)](https://npm.chart.dev/use-payment)
+[![npm version](https://img.shields.io/npm/v/use-payment?color=yellow)](https://npmjs.com/package/use-payment)
+[![npm downloads](https://img.shields.io/npm/dm/use-payment?color=yellow)](https://npm.chart.dev/use-payment)
 
 <!-- /automd -->
 
-This is my package description.
+A package to handle payments using Stripe or Lemonsqueezy using a single interface.
 
 ## Usage
 
@@ -18,20 +20,26 @@ Install package:
 ```sh
 # ✨ Auto-detect
 npx nypm install use-payment
+npx nypm install use-payment
 
 # npm
+npm install use-payment
 npm install use-payment
 
 # yarn
 yarn add use-payment
+yarn add use-payment
 
 # pnpm
+pnpm install use-payment
 pnpm install use-payment
 
 # bun
 bun install use-payment
+bun install use-payment
 
 # deno
+deno install use-payment
 deno install use-payment
 ```
 
@@ -39,24 +47,24 @@ deno install use-payment
 
 Import:
 
-<!-- automd:jsimport cjs cdn name="pkg" -->
+<!-- automd:jsimport cjs cdn name="use-payment" -->
 
 **ESM** (Node.js, Bun, Deno)
 
 ```js
-import {} from "pkg";
+import {} from "use-payment";
 ```
 
 **CommonJS** (Legacy Node.js)
 
 ```js
-const {} = require("pkg");
+const {} = require("use-payment");
 ```
 
 **CDN** (Deno, Bun and Browsers)
 
 ```js
-import {} from "https://esm.sh/pkg";
+import {} from "https://esm.sh/use-payment";
 ```
 
 <!-- /automd -->
@@ -92,6 +100,6 @@ Made by [community](https://github.com/SupersaasHQ/usePayment/graphs/contributor
 
 ---
 
-_🤖 auto updated with [automd](https://automd.unjs.io)_
+_🤖 auto updated with [automd](https://automd.SupersaasHQ.io)_
 
 <!-- /automd -->
