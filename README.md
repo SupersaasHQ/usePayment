@@ -4,8 +4,6 @@
 
 [![npm version](https://img.shields.io/npm/v/use-payment?color=yellow)](https://npmjs.com/package/use-payment)
 [![npm downloads](https://img.shields.io/npm/dm/use-payment?color=yellow)](https://npm.chart.dev/use-payment)
-[![npm version](https://img.shields.io/npm/v/use-payment?color=yellow)](https://npmjs.com/package/use-payment)
-[![npm downloads](https://img.shields.io/npm/dm/use-payment?color=yellow)](https://npm.chart.dev/use-payment)
 
 <!-- /automd -->
 
@@ -20,26 +18,20 @@ Install package:
 ```sh
 # ✨ Auto-detect
 npx nypm install use-payment
-npx nypm install use-payment
 
 # npm
-npm install use-payment
 npm install use-payment
 
 # yarn
 yarn add use-payment
-yarn add use-payment
 
 # pnpm
-pnpm install use-payment
 pnpm install use-payment
 
 # bun
 bun install use-payment
-bun install use-payment
 
 # deno
-deno install use-payment
 deno install use-payment
 ```
 
@@ -100,6 +92,6 @@ Made by [community](https://github.com/SupersaasHQ/usePayment/graphs/contributor
 
 ---
 
-_🤖 auto updated with [automd](https://automd.SupersaasHQ.io)_
+_🤖 auto updated with [automd](https://automd.unjs.io)_
 
 <!-- /automd -->
